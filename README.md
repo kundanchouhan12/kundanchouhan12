@@ -85,4 +85,38 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin:
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/kundanchouhan12" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
+  </a>
+</p>
