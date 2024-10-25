@@ -1,3 +1,4 @@
+![Header](https://github.com/kundanchouhan12/kundanchouhan12/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kundan Singh Chouhan</h1>
 <h3 align="center">Hello! I am Kundan Singh Chouhan, a full stack developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building dynamic web applications and have a passion for creating user-friendly interfaces. Let's connect!</h3>
 
